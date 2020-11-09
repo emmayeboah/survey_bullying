@@ -1,0 +1,99 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  background-image: linear-gradient(to bottom left, red, yellow, blue);
+  color: white;
+  font-size: 1.2rem;
+  background-image: url("../images/bullying.jpg");
+  background-size: contain;
+}
+
+#body{
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+}
+#title{
+  font-size: 45px;
+}
+#description{
+  font-size: 20px;
+}
+
+#fun{
+  border-radius: 15px;
+}
+
+#rumor{
+  border-radius: 15px;
+}
+#spit{
+  border-radius: 15px;
+}
+
+#threatened{
+  border-radius: 15px;
+}
+
+#false{
+  border-radius: 15px;
+}
+
+#destroy{
+  border-radius: 15px;
+}
+
+#left{
+  border-radius: 15px;
+}
+
+#phone{
+  border-radius: 15px;
+}
+
+#population{
+  border-radius: 15px;
+}
+
+#lowest-grade{
+  font-family: cursive;
+}
+#highest-grade{
+  font-family: cursive;
+}
+#name{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#email{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#age{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#reference{
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+}
+#line-meet{
+  background-color: black;
+}
+#submit{
+  width: 570px;
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 5rem;
+}
